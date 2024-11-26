@@ -1,0 +1,721 @@
+admission_id,patient_id,admission_date,service,primary_diagnosis
+1,9,2018-01-01,Cardiology,AMI
+2,30,2018-01-02,General Medicine,Stroke
+3,49,2018-01-03,General Medicine,Stroke
+4,70,2018-01-04,General Medicine,Stroke
+5,87,2018-01-05,General Medicine,Stroke
+6,94,2018-01-06,General Medicine,Stroke
+7,106,2018-01-07,General Medicine,Stroke
+8,114,2018-01-08,ICU,Stroke
+9,131,2018-01-09,ICU,Stroke
+10,139,2018-01-10,ICU,Stroke
+11,153,2018-01-11,Cardiology,AMI
+12,159,2018-01-12,Neurology,Stroke
+13,167,2018-01-13,Hospitalist,Diabetes
+14,185,2018-01-14,Hospitalist,Diabetes
+15,191,2018-01-15,Orthopeadics,Hip Fracture
+16,206,2018-01-16,Cardiology,AMI
+17,217,2018-01-17,General Medicine,Stroke
+18,14,2018-01-18,General Medicine,Stroke
+19,238,2018-01-19,General Medicine,Stroke
+20,243,2018-01-20,General Medicine,Stroke
+21,265,2018-01-21,General Medicine,Stroke
+22,277,2018-01-22,General Medicine,Stroke
+23,280,2018-01-23,ICU,Stroke
+24,291,2018-01-24,ICU,Stroke
+25,303,2018-01-25,ICU,Stroke
+26,316,2018-01-26,Cardiology,AMI
+27,335,2018-01-27,Neurology,Stroke
+28,342,2018-01-28,Hospitalist,Diabetes
+29,361,2018-01-29,Hospitalist,Diabetes
+30,372,2018-01-30,Orthopeadics,Hip Fracture
+31,405,2018-01-31,Cardiology,AMI
+32,412,2018-02-01,General Medicine,Stroke
+33,424,2018-02-02,General Medicine,Stroke
+34,437,2018-02-03,General Medicine,Stroke
+35,449,2018-02-04,General Medicine,Stroke
+36,454,2018-02-05,General Medicine,Stroke
+37,464,2018-02-06,General Medicine,Stroke
+38,480,2018-02-07,ICU,Stroke
+39,490,2018-02-08,ICU,Pneumonia
+40,498,2018-02-09,ICU,Pneumonia
+41,521,2018-02-10,Cardiology,AMI
+42,533,2018-02-11,Neurology,Stroke
+43,545,2018-02-12,Hospitalist,Diabetes
+44,557,2018-02-13,Hospitalist,Diabetes
+45,570,2018-02-14,Orthopeadics,Hip Fracture
+46,581,2018-02-15,Cardiology,AMI
+47,602,2018-02-16,General Medicine,Stroke
+48,611,2018-02-17,General Medicine,Stroke
+49,641,2018-02-18,General Medicine,Fever
+50,656,2018-02-19,General Medicine,Fever
+51,679,2018-02-20,General Medicine,Fever
+52,712,2018-02-21,General Medicine,Fever
+53,730,2018-02-22,ICU,Pneumonia
+54,11,2018-01-01,Hospitalist,Pneumonia
+55,23,2018-01-02,Hospitalist,Pneumonia
+56,51,2018-01-03,Cardiology,AMI
+57,56,2018-01-04,Neurology,Stroke
+58,78,2018-01-05,Hospitalist,Diabetes
+59,96,2018-01-06,Hospitalist,Diabetes
+60,105,2018-01-07,Orthopeadics,Hip Fracture
+61,111,2018-01-08,Cardiology,AMI
+62,122,2018-01-09,General Medicine,Fever
+63,133,2018-01-10,General Medicine,Fever
+64,149,2018-01-11,General Medicine,Fever
+65,160,2018-01-12,General Medicine,Fever
+66,170,2018-01-13,General Medicine,Fever
+67,181,2018-01-14,General Medicine,Fever
+68,194,2018-01-15,ICU,Pneumonia
+69,204,2018-01-16,ICU,Pneumonia
+70,215,2018-01-17,ICU,Pneumonia
+71,225,2018-01-18,Cardiology,AMI
+72,242,2018-01-19,Neurology,Stroke
+73,247,2018-01-20,Hospitalist,Diabetes
+74,254,2018-01-21,Hospitalist,Diabetes
+75,272,2018-01-22,Orthopeadics,Hip Fracture
+76,289,2018-01-23,Cardiology,AMI
+77,296,2018-01-24,General Medicine,Flu
+78,305,2018-01-25,General Medicine,Flu
+79,321,2018-01-26,General Medicine,Flu
+80,337,2018-01-27,General Medicine,Flu
+81,344,2018-01-28,General Medicine,Flu
+82,360,2018-01-29,General Medicine,Flu
+83,371,2018-01-30,ICU,Pneumonia
+84,404,2018-01-31,ICU,Pneumonia
+85,408,2018-02-01,ICU,Pneumonia
+86,427,2018-02-02,Cardiology,AMI
+87,434,2018-02-03,Neurology,Stroke
+88,445,2018-02-04,Hospitalist,Broken Leg
+89,456,2018-02-05,Hospitalist,Broken Leg
+90,463,2018-02-06,Orthopeadics,Hip Fracture
+91,476,2018-02-07,Cardiology,AMI
+92,493,2018-02-08,General Medicine,Flu
+93,257,2018-02-09,General Medicine,Flu
+94,515,2018-02-10,General Medicine,Flu
+95,530,2018-02-11,General Medicine,Flu
+96,540,2018-02-12,General Medicine,Flu
+97,215,2018-02-13,General Medicine,Flu
+98,574,2018-02-14,ICU,Pneumonia
+99,587,2018-02-15,ICU,Pneumonia
+100,597,2018-02-16,ICU,Pneumonia
+101,610,2018-02-17,Cardiology,AMI
+102,642,2018-02-18,Neurology,Stroke
+103,653,2018-02-19,Hospitalist,Broken Leg
+104,695,2018-02-20,Hospitalist,Hypertension
+105,702,2018-02-21,Orthopeadics,Hip Fracture
+106,728,2018-02-22,Cardiology,AMI
+107,13,2018-01-01,Hospitalist,Flu
+108,24,2018-01-02,General Medicine,Flu
+109,46,2018-01-03,General Medicine,Flu
+110,62,2018-01-04,General Medicine,Flu
+111,84,2018-01-05,General Medicine,Flu
+112,91,2018-01-06,General Medicine,Laceration
+113,100,2018-01-07,ICU,Pneumonia
+114,113,2018-01-08,ICU,Pneumonia
+115,127,2018-01-09,ICU,Pneumonia
+116,137,2018-01-10,Cardiology,AMI
+117,152,2018-01-11,Neurology,Stroke
+118,165,2018-01-12,Hospitalist,Hypertension
+119,174,2018-01-13,Hospitalist,Hypertension
+120,182,2018-01-14,Orthopeadics,Hip Fracture
+121,197,2018-01-15,ICU,AMI
+122,202,2018-01-16,General Medicine,Laceration
+123,216,2018-01-17,General Medicine,Laceration
+124,223,2018-01-18,General Medicine,Laceration
+125,237,2018-01-19,General Medicine,Laceration
+126,246,2018-01-20,General Medicine,Laceration
+127,256,2018-01-21,General Medicine,Laceration
+128,273,2018-01-22,ICU,Pneumonia
+129,285,2018-01-23,ICU,Pneumonia
+130,301,2018-01-24,ICU,Pneumonia
+131,307,2018-01-25,Cardiology,AMI
+132,317,2018-01-26,Neurology,Stroke
+133,327,2018-01-27,Hospitalist,Hypertension
+134,341,2018-01-28,Hospitalist,Hypertension
+135,359,2018-01-29,Orthopeadics,Hip Fracture
+136,362,2018-01-30,Cardiology,AMI
+137,375,2018-01-31,General Medicine,Flu
+138,417,2018-02-01,General Medicine,Flu
+139,425,2018-02-02,General Medicine,Flu
+140,14,2018-01-01,Hospitalist,Kidney Failure
+141,26,2018-01-02,General Medicine,Kidney Failure
+142,53,2018-01-03,General Medicine,Kidney Failure
+143,64,2018-01-04,ICU,Pneumonia
+144,83,2018-01-05,ICU,Pneumonia
+145,90,2018-01-06,ICU,Pneumonia
+146,16,2018-01-01,Hospitalist,AMI
+147,35,2018-01-02,Neurology,Stroke
+148,39,2018-01-03,Hospitalist,Fever
+149,72,2018-01-04,Hospitalist,Fever
+150,75,2018-01-05,Orthopeadics,Hip Fracture
+151,97,2018-01-06,Cardiology,AMI
+152,101,2018-01-07,Cardiology,Kidney Failure
+153,112,2018-01-08,General Medicine,Kidney Failure
+154,126,2018-01-09,General Medicine,Pneumonia
+155,143,2018-01-10,General Medicine,Pneumonia
+156,146,2018-01-11,General Medicine,Pneumonia
+157,164,2018-01-12,General Medicine,Pneumonia
+158,168,2018-01-13,ICU,Pneumonia
+159,183,2018-01-14,ICU,Pneumonia
+160,193,2018-01-15,ICU,Pneumonia
+161,208,2018-01-16,Cardiology,AMI
+162,214,2018-01-17,Neurology,Stroke
+163,228,2018-01-18,Hospitalist,Fever
+164,232,2018-01-19,Hospitalist,Flu
+165,248,2018-01-20,Orthopeadics,Hip Fracture
+166,258,2018-01-21,Cardiology,AMI
+167,274,2018-01-22,General Medicine,Pneumonia
+168,282,2018-01-23,General Medicine,Pneumonia
+169,297,2018-01-24,General Medicine,Pneumonia
+170,308,2018-01-25,General Medicine,Pneumonia
+171,323,2018-01-26,General Medicine,Pneumonia
+172,331,2018-01-27,General Medicine,Pneumonia
+173,338,2018-01-28,ICU,Pneumonia
+174,352,2018-01-29,ICU,Pneumonia
+175,363,2018-01-30,ICU,Pneumonia
+176,402,2018-01-31,Cardiology,AMI
+177,409,2018-02-01,Neurology,Stroke
+178,26,2018-02-02,Hospitalist,Flu
+179,431,2018-02-03,Hospitalist,Flu
+180,451,2018-02-04,Orthopeadics,Hip Fracture
+181,459,2018-02-05,Neurology,AMI
+182,469,2018-02-06,Neurology,Pneumonia
+183,474,2018-02-07,Neurology,Pneumonia
+184,484,2018-02-08,Neurology,Pneumonia
+185,504,2018-02-09,Neurology,Pneumonia
+186,511,2018-02-10,General Medicine,Pneumonia
+187,529,2018-02-11,General Medicine,Pneumonia
+188,538,2018-02-12,ICU,Pneumonia
+189,555,2018-02-13,ICU,Pneumonia
+190,572,2018-02-14,Neurology,Pneumonia
+191,580,2018-02-15,Neurology,AMI
+192,601,2018-02-16,Neurology,Stroke
+193,627,2018-02-17,Hospitalist,Flu
+194,631,2018-02-18,Hospitalist,Flu
+195,658,2018-02-19,Orthopeadics,Hip Fracture
+196,684,2018-02-20,Cardiology,AMI
+197,714,2018-02-21,General Medicine,Pneumonia
+198,722,2018-02-22,General Medicine,Pneumonia
+199,18,2018-01-01,Hospitalist,Pneumonia
+200,29,2018-01-02,General Medicine,Pneumonia
+201,43,2018-01-03,General Medicine,Pneumonia
+202,66,2018-01-04,General Medicine,Pneumonia
+203,85,2018-01-05,ICU,Stroke
+204,92,2018-01-06,ICU,AMI
+205,110,2018-01-07,ICU,AMI
+206,121,2018-01-08,Cardiology,Heart Failure
+207,123,2018-01-09,Neurology,Stroke
+208,23,2018-01-10,Hospitalist,Flu
+209,151,2018-01-11,Hospitalist,Flu
+210,158,2018-01-12,Orthopeadics,Hip Fracture
+211,172,2018-01-13,Cardiology,Heart Failure
+212,179,2018-01-14,General Medicine,Pneumonia
+213,188,2018-01-15,General Medicine,Pneumonia
+214,199,2018-01-16,General Medicine,Diabetes
+215,220,2018-01-17,General Medicine,Diabetes
+216,227,2018-01-18,General Medicine,Diabetes
+217,34,2018-01-19,General Medicine,Diabetes
+218,244,2018-01-20,ICU,Heart Failure
+219,264,2018-01-21,ICU,Heart Failure
+220,267,2018-01-22,ICU,Heart Failure
+221,284,2018-01-23,Cardiology,Heart Failure
+222,292,2018-01-24,Neurology,Stroke
+223,310,2018-01-25,Hospitalist,Flu
+224,318,2018-01-26,Hospitalist,Flu
+225,333,2018-01-27,Orthopeadics,Hip Fracture
+226,345,2018-01-28,Cardiology,Heart Failure
+227,353,2018-01-29,General Medicine,Diabetes
+228,367,2018-01-30,General Medicine,Diabetes
+229,401,2018-01-31,General Medicine,Diabetes
+230,416,2018-02-01,General Medicine,Diabetes
+231,420,2018-02-02,General Medicine,Diabetes
+232,432,2018-02-03,General Medicine,Diabetes
+233,450,2018-02-04,ICU,Heart Failure
+234,455,2018-02-05,ICU,Heart Failure
+235,466,2018-02-06,Neurology,Heart Failure
+236,479,2018-02-07,Neurology,Heart Failure
+237,488,2018-02-08,Neurology,Stroke
+238,503,2018-02-09,Neurology,Flu
+239,513,2018-02-10,Neurology,Flu
+240,535,2018-02-11,Orthopeadics,Hip Fracture
+241,542,2018-02-12,Cardiology,Heart Failure
+242,561,2018-02-13,General Medicine,Diabetes
+243,566,2018-02-14,General Medicine,Diabetes
+244,590,2018-02-15,General Medicine,Diabetes
+245,598,2018-02-16,General Medicine,Diabetes
+246,626,2018-02-17,General Medicine,Diabetes
+247,635,2018-02-18,General Medicine,Diabetes
+248,663,2018-02-19,ICU,Heart Failure
+249,694,2018-02-20,ICU,Heart Failure
+250,701,2018-02-21,ICU,Heart Failure
+251,729,2018-02-22,Cardiology,Heart Failure
+252,19,2018-01-01,Hospitalist,Stroke
+253,21,2018-01-02,Hospitalist,Flu
+254,47,2018-01-03,Hospitalist,Flu
+255,58,2018-01-04,Orthopeadics,Hip Fracture
+256,81,2018-01-05,Cardiology,Heart Failure
+257,93,2018-01-06,Cardiology,Broken Leg
+258,103,2018-01-07,Cardiology,Broken Leg
+259,116,2018-01-08,Cardiology,Broken Leg
+260,125,2018-01-09,ICU,Hypertension
+261,138,2018-01-10,ICU,Hypertension
+262,144,2018-01-11,ICU,Hypertension
+263,156,2018-01-12,ICU,Heart Failure
+264,176,2018-01-13,ICU,Heart Failure
+265,186,2018-01-14,ICU,Heart Failure
+266,192,2018-01-15,ICU,Heart Failure
+267,203,2018-01-16,Neurology,Stroke
+268,210,2018-01-17,Hospitalist,Flu
+269,226,2018-01-18,Hospitalist,Flu
+270,239,2018-01-19,Orthopeadics,Hip Fracture
+271,249,2018-01-20,Cardiology,Heart Failure
+272,260,2018-01-21,General Medicine,Hypertension
+273,269,2018-01-22,General Medicine,Hypertension
+274,281,2018-01-23,General Medicine,Hypertension
+275,300,2018-01-24,General Medicine,Hypertension
+276,312,2018-01-25,General Medicine,Hypertension
+277,322,2018-01-26,General Medicine,Hypertension
+278,332,2018-01-27,ICU,Heart Failure
+279,340,2018-01-28,ICU,Heart Failure
+280,355,2018-01-29,ICU,Heart Failure
+281,366,2018-01-30,Cardiology,Heart Failure
+282,377,2018-01-31,Neurology,Stroke
+283,415,2018-02-01,Hospitalist,Flu
+284,423,2018-02-02,Hospitalist,Flu
+285,439,2018-02-03,Orthopeadics,Hip Fracture
+286,442,2018-02-04,Cardiology,Heart Failure
+287,453,2018-02-05,General Medicine,Hypertension
+288,468,2018-02-06,Neurology,Hypertension
+289,473,2018-02-07,Neurology,Hypertension
+290,483,2018-02-08,Neurology,Hypertension
+291,508,2018-02-09,Neurology,Hypertension
+292,517,2018-02-10,Neurology,Hypertension
+293,532,2018-02-11,Neurology,Heart Failure
+294,550,2018-02-12,Neurology,Heart Failure
+295,560,2018-02-13,Neurology,Heart Failure
+296,573,2018-02-14,Neurology,Heart Failure
+297,588,2018-02-15,Neurology,Stroke
+298,595,2018-02-16,Hospitalist,Laceration
+299,607,2018-02-17,Hospitalist,Laceration
+300,637,2018-02-18,Orthopeadics,Hip Fracture
+301,673,2018-02-19,Cardiology,Heart Failure
+302,681,2018-02-20,General Medicine,Hypertension
+303,221,2018-02-21,General Medicine,Hypertension
+304,736,2018-02-22,General Medicine,Hypertension
+305,15,2018-01-01,Hospitalist,Hypertension
+306,31,2018-01-02,General Medicine,Hypertension
+307,52,2018-01-03,General Medicine,Hypertension
+308,71,2018-01-04,ICU,Pneumonia
+309,74,2018-01-05,ICU,Pneumonia
+310,89,2018-01-06,ICU,Pneumonia
+311,107,2018-01-07,Cardiology,Heart Failure
+312,119,2018-01-08,Neurology,Stroke
+313,128,2018-01-09,Hospitalist,Laceration
+314,140,2018-01-10,Hospitalist,Laceration
+315,150,2018-01-11,Orthopeadics,Hip Fracture
+316,161,2018-01-12,Cardiology,Heart Failure
+317,175,2018-01-13,General Medicine,Hypertension
+318,187,2018-01-14,General Medicine,Hypertension
+319,190,2018-01-15,General Medicine,Hypertension
+320,209,2018-01-16,General Medicine,Hypertension
+321,211,2018-01-17,General Medicine,Hypertension
+322,222,2018-01-18,General Medicine,Hypertension
+323,236,2018-01-19,ICU,Pneumonia
+324,251,2018-01-20,ICU,Pneumonia
+325,262,2018-01-21,ICU,Pneumonia
+326,276,2018-01-22,Cardiology,Heart Failure
+327,288,2018-01-23,Neurology,Stroke
+328,293,2018-01-24,Hospitalist,Laceration
+329,313,2018-01-25,Hospitalist,Laceration
+330,319,2018-01-26,Orthopeadics,Hip Fracture
+331,328,2018-01-27,Cardiology,Afib
+332,348,2018-01-28,General Medicine,Hypertension
+333,356,2018-01-29,General Medicine,Hypertension
+334,364,2018-01-30,General Medicine,Hypertension
+335,300,2018-01-31,General Medicine,Hypertension
+336,407,2018-02-01,General Medicine,Hypertension
+337,429,2018-02-02,General Medicine,Hypertension
+338,435,2018-02-03,ICU,Pneumonia
+339,444,2018-02-04,ICU,Pneumonia
+340,460,2018-02-05,ICU,Pneumonia
+341,471,2018-02-06,Cardiology,Afib
+342,477,2018-02-07,Neurology,Stroke
+343,487,2018-02-08,Hospitalist,Laceration
+344,499,2018-02-09,Hospitalist,Flu
+345,510,2018-02-10,Orthopeadics,Hip Fracture
+346,537,2018-02-11,Cardiology,Afib
+347,539,2018-02-12,General Medicine,Hypertension
+348,556,2018-02-13,General Medicine,Hypertension
+349,567,2018-02-14,General Medicine,Hypertension
+350,585,2018-02-15,General Medicine,Hypertension
+351,603,2018-02-16,General Medicine,Hypertension
+352,609,2018-02-17,General Medicine,Hypertension
+353,650,2018-02-18,ICU,Laceration
+354,672,2018-02-19,ICU,Stroke
+355,10,2018-01-01,ICU,Stroke
+356,37,2018-01-02,Cardiology,Afib
+357,54,2018-01-03,Neurology,Stroke
+358,65,2018-01-04,Hospitalist,Flu
+359,82,2018-01-05,Hospitalist,Flu
+360,99,2018-01-06,Orthopeadics,Knee Replacement
+361,102,2018-01-07,Cardiology,Afib
+362,120,2018-01-08,ICU,Hypertension
+363,129,2018-01-09,ICU,Fever
+364,142,2018-01-10,ICU,Fever
+365,154,2018-01-11,ICU,Fever
+366,162,2018-01-12,ICU,Flu
+367,166,2018-01-13,ICU,Flu
+368,178,2018-01-14,ICU,Spinal Cord Injury
+369,198,2018-01-15,ICU,Spinal Cord Injury
+370,698,2018-01-16,ICU,Pneumonia
+371,219,2018-01-17,Cardiology,Afib
+372,221,2018-01-18,Neurology,Stroke
+373,241,2018-01-19,Hospitalist,Kidney Failure
+374,253,2018-01-20,Hospitalist,Kidney Failure
+375,261,2018-01-21,Orthopeadics,Knee Replacement
+376,268,2018-01-22,Cardiology,Afib
+377,279,2018-01-23,General Medicine,Flu
+378,294,2018-01-24,General Medicine,Flu
+379,304,2018-01-25,General Medicine,Flu
+380,320,2018-01-26,General Medicine,Flu
+381,326,2018-01-27,General Medicine,Flu
+382,349,2018-01-28,General Medicine,Flu
+383,351,2018-01-29,ICU,Pneumonia
+384,365,2018-01-30,ICU,Pneumonia
+385,376,2018-01-31,ICU,Pneumonia
+386,410,2018-02-01,Cardiology,Afib
+387,419,2018-02-02,Neurology,Stroke
+388,436,2018-02-03,Hospitalist,Kidney Failure
+389,1,2018-01-01,Hospitalist,Kidney Failure
+390,36,2018-01-02,Orthopeadics,Knee Replacement
+391,41,2018-01-03,Cardiology,Afib
+392,61,2018-01-04,General Medicine,Flu
+393,80,2018-01-05,General Medicine,Flu
+394,98,2018-01-06,General Medicine,Flu
+395,109,2018-01-07,Cardiology,Flu
+396,115,2018-01-08,Cardiology,Flu
+397,130,2018-01-09,ICU,Flu
+398,134,2018-01-10,ICU,Pneumonia
+399,147,2018-01-11,ICU,Pneumonia
+400,157,2018-01-12,ICU,Pneumonia
+401,169,2018-01-13,ICU,Afib
+402,184,2018-01-14,ICU,Stroke
+403,196,2018-01-15,ICU,Kidney Failure
+404,207,2018-01-16,Hospitalist,Pneumonia
+405,213,2018-01-17,Orthopeadics,Knee Replacement
+406,230,2018-01-18,Cardiology,Afib
+407,233,2018-01-19,General Medicine,Flu
+408,252,2018-01-20,General Medicine,Flu
+409,263,2018-01-21,General Medicine,Flu
+410,275,2018-01-22,General Medicine,Laceration
+411,287,2018-01-23,General Medicine,Laceration
+412,295,2018-01-24,General Medicine,Laceration
+413,302,2018-01-25,ICU,Stroke
+414,325,2018-01-26,ICU,Stroke
+415,336,2018-01-27,ICU,Stroke
+416,347,2018-01-28,Cardiology,AMI
+417,357,2018-01-29,Neurology,Stroke
+418,369,2018-01-30,Hospitalist,Pneumonia
+419,19,2018-01-31,Hospitalist,Pneumonia
+420,413,2018-02-01,Orthopeadics,Knee Replacement
+421,422,2018-02-02,Cardiology,AMI
+422,441,2018-02-03,General Medicine,Laceration
+423,446,2018-02-04,General Medicine,Laceration
+424,457,2018-02-05,General Medicine,Laceration
+425,467,2018-02-06,General Medicine,Laceration
+426,472,2018-02-07,General Medicine,Flu
+427,482,2018-02-08,General Medicine,Flu
+428,505,2018-02-09,ICU,Stroke
+429,522,2018-02-10,ICU,Stroke
+430,527,2018-02-11,ICU,Stroke
+431,543,2018-02-12,Cardiology,AMI
+432,552,2018-02-13,Neurology,Migraine
+433,577,2018-02-14,Hospitalist,Pneumonia
+434,7,2018-01-01,Hospitalist,Pneumonia
+435,22,2018-01-02,Hospitalist,Knee Replacement
+436,38,2018-01-03,Cardiology,AMI
+437,69,2018-01-04,General Medicine,Flu
+438,76,2018-01-05,General Medicine,Kidney Failure
+439,17,2018-01-01,Hospitalist,Kidney Failure
+440,25,2018-01-02,General Medicine,Kidney Failure
+441,50,2018-01-03,General Medicine,Kidney Failure
+442,68,2018-01-04,General Medicine,Kidney Failure
+443,77,2018-01-05,ICU,Stroke
+444,95,2018-01-06,ICU,Stroke
+445,108,2018-01-07,ICU,Stroke
+446,118,2018-01-08,Cardiology,AMI
+447,124,2018-01-09,Neurology,Migraine
+448,136,2018-01-10,Hospitalist,Pneumonia
+449,148,2018-01-11,Hospitalist,Pneumonia
+450,155,2018-01-12,Orthopeadics,Knee Replacement
+451,173,2018-01-13,Cardiology,AMI
+452,177,2018-01-14,General Medicine,Pneumonia
+453,115,2018-01-15,General Medicine,Pneumonia
+454,201,2018-01-16,General Medicine,Pneumonia
+455,212,2018-01-17,General Medicine,Pneumonia
+456,229,2018-01-18,General Medicine,Pneumonia
+457,240,2018-01-19,General Medicine,Pneumonia
+458,245,2018-01-20,ICU,Pneumonia
+459,259,2018-01-21,ICU,Pneumonia
+460,271,2018-01-22,ICU,Pneumonia
+461,283,2018-01-23,Cardiology,AMI
+462,298,2018-01-24,Neurology,Migraine
+463,306,2018-01-25,Hospitalist,Pneumonia
+464,314,2018-01-26,Hospitalist,Pneumonia
+465,334,2018-01-27,Orthopeadics,Knee Replacement
+466,343,2018-01-28,Cardiology,AMI
+467,354,2018-01-29,General Medicine,Pneumonia
+468,368,2018-01-30,General Medicine,Pneumonia
+469,400,2018-01-31,General Medicine,Pneumonia
+470,418,2018-02-01,General Medicine,Pneumonia
+471,428,2018-02-02,General Medicine,Pneumonia
+472,433,2018-02-03,General Medicine,Pneumonia
+473,448,2018-02-04,ICU,Pneumonia
+474,458,2018-02-05,ICU,Pneumonia
+475,465,2018-02-06,ICU,Pneumonia
+476,481,2018-02-07,Cardiology,AMI
+477,486,2018-02-08,Neurology,Migraine
+478,502,2018-02-09,Hospitalist,Pneumonia
+479,518,2018-02-10,Hospitalist,Pneumonia
+480,526,2018-02-11,Orthopeadics,Knee Replacement
+481,551,2018-02-12,Cardiology,AMI
+482,554,2018-02-13,General Medicine,Pneumonia
+483,578,2018-02-14,General Medicine,Pneumonia
+484,584,2018-02-15,General Medicine,Pneumonia
+485,594,2018-02-16,General Medicine,Pneumonia
+486,623,2018-02-17,General Medicine,Pneumonia
+487,643,2018-02-18,General Medicine,Pneumonia
+488,652,2018-02-19,ICU,Pneumonia
+489,693,2018-02-20,ICU,Pneumonia
+490,705,2018-02-21,ICU,Pneumonia
+491,721,2018-02-22,Cardiology,AMI
+492,619,2018-02-17,Neurology,Migraine
+493,629,2018-02-18,Hospitalist,Pneumonia
+494,659,2018-02-19,Hospitalist,Pneumonia
+495,677,2018-02-20,Orthopeadics,Knee Replacement
+496,720,2018-02-21,Cardiology,AMI
+497,244,2018-02-22,General Medicine,Pneumonia
+498,604,2018-02-17,General Medicine,Pneumonia
+499,648,2018-02-18,General Medicine,Pneumonia
+500,660,2018-02-19,General Medicine,Pneumonia
+501,682,2018-02-20,General Medicine,Pneumonia
+502,715,2018-02-21,General Medicine,Pneumonia
+503,725,2018-02-22,ICU,Pneumonia
+504,614,2018-02-17,ICU,Pneumonia
+505,646,2018-02-18,ICU,Pneumonia
+506,664,2018-02-19,Cardiology,AMI
+507,685,2018-02-20,Neurology,Migraine
+508,700,2018-02-21,Hospitalist,Pneumonia
+509,740,2018-02-22,Hospitalist,Pneumonia
+510,613,2018-02-17,Orthopeadics,Knee Replacement
+511,636,2018-02-18,Cardiology,AMI
+512,662,2018-02-19,General Medicine,Diabetes
+513,692,2018-02-20,General Medicine,Diabetes
+514,707,2018-02-21,General Medicine,Diabetes
+515,734,2018-02-22,General Medicine,Diabetes
+516,624,2018-02-17,General Medicine,Diabetes
+517,651,2018-02-18,General Medicine,Diabetes
+518,666,2018-02-19,ICU,Pneumonia
+519,683,2018-02-20,ICU,Pneumonia
+520,706,2018-02-21,ICU,Pneumonia
+521,738,2018-02-22,Cardiology,AMI
+522,617,2018-02-17,Neurology,Migraine
+523,634,2018-02-18,Hospitalist,Pneumonia
+524,670,2018-02-19,Hospitalist,Pneumonia
+525,680,2018-02-20,Orthopeadics,Knee Replacement
+526,699,2018-02-21,Cardiology,AMI
+527,732,2018-02-22,General Medicine,Diabetes
+528,615,2018-02-17,General Medicine,Diabetes
+529,633,2018-02-18,General Medicine,Diabetes
+530,665,2018-02-19,General Medicine,Diabetes
+531,427,2018-02-20,General Medicine,Diabetes
+532,711,2018-02-21,General Medicine,Diabetes
+533,737,2018-02-22,ICU,Pneumonia
+534,489,2018-02-08,ICU,Pneumonia
+535,496,2018-02-09,ICU,Pneumonia
+536,516,2018-02-10,Cardiology,AMI
+537,525,2018-02-11,Neurology,Migraine
+538,549,2018-02-12,Hospitalist,Pneumonia
+539,563,2018-02-13,Hospitalist,Pneumonia
+540,576,2018-02-14,Orthopeadics,Knee Replacement
+541,583,2018-02-15,Cardiology,Heart Failure
+542,600,2018-02-16,General Medicine,Diabetes
+543,618,2018-02-17,General Medicine,Diabetes
+544,647,2018-02-18,General Medicine,Diabetes
+545,668,2018-02-19,General Medicine,Diabetes
+546,697,2018-02-20,General Medicine,Broken Leg
+547,710,2018-02-21,General Medicine,Broken Leg
+548,739,2018-02-22,ICU,Pneumonia
+549,8,2018-01-01,Hospitalist,Pneumonia
+550,27,2018-01-02,ICU,Pneumonia
+551,45,2018-01-03,Cardiology,Heart Failure
+552,63,2018-01-04,Neurology,Migraine
+553,495,2018-02-08,Hospitalist,Pneumonia
+554,497,2018-02-09,Hospitalist,Pneumonia
+555,523,2018-02-10,Orthopeadics,Knee Replacement
+556,531,2018-02-11,Cardiology,Heart Failure
+557,548,2018-02-12,General Medicine,Broken Leg
+558,558,2018-02-13,General Medicine,Hypertension
+559,569,2018-02-14,General Medicine,Hypertension
+560,586,2018-02-15,General Medicine,Hypertension
+561,596,2018-02-16,General Medicine,Hypertension
+562,605,2018-02-17,General Medicine,Hypertension
+563,628,2018-02-18,ICU,Pneumonia
+564,667,2018-02-19,ICU,Pneumonia
+565,687,2018-02-20,ICU,Pneumonia
+566,717,2018-02-21,Cardiology,Heart Failure
+567,727,2018-02-22,Neurology,Migraine
+568,12,2018-01-01,Hospitalist,Pneumonia
+569,20,2018-01-02,Hospitalist,Pneumonia
+570,48,2018-01-03,Orthopeadics,Knee Replacement
+571,73,2018-01-04,Cardiology,Heart Failure
+572,494,2018-02-08,General Medicine,Fever
+573,506,2018-02-09,General Medicine,Fever
+574,520,2018-02-10,General Medicine,Fever
+575,534,2018-02-11,General Medicine,Flu
+576,546,2018-02-12,General Medicine,Flu
+577,565,2018-02-13,General Medicine,Flu
+578,579,2018-02-14,ICU,Pneumonia
+579,589,2018-02-15,ICU,Pneumonia
+580,284,2018-02-16,ICU,Pneumonia
+581,622,2018-02-17,Cardiology,Heart Failure
+582,638,2018-02-18,Neurology,Migraine
+583,675,2018-02-19,Hospitalist,Pneumonia
+584,676,2018-02-20,Hospitalist,Diabetes
+585,718,2018-02-21,Orthopeadics,Knee Replacement
+586,731,2018-02-22,Cardiology,Heart Failure
+587,5,2018-01-01,General Medicine,Flu
+588,32,2018-01-02,General Medicine,Flu
+589,44,2018-01-03,General Medicine,Flu
+590,67,2018-01-04,General Medicine,Flu
+591,485,2018-02-08,General Medicine,Flu
+592,507,2018-02-09,General Medicine,Flu
+593,512,2018-02-10,ICU,Pneumonia
+594,528,2018-02-11,ICU,Pneumonia
+595,541,2018-02-12,ICU,Pneumonia
+596,559,2018-02-13,Cardiology,Heart Failure
+597,575,2018-02-14,Neurology,Migraine
+598,591,2018-02-15,Hospitalist,Diabetes
+599,592,2018-02-16,Hospitalist,Diabetes
+600,621,2018-02-17,Orthopeadics,Knee Replacement
+601,639,2018-02-18,Cardiology,Heart Failure
+602,657,2018-02-19,General Medicine,Flu
+603,698,2018-02-20,General Medicine,Flu
+604,719,2018-02-21,General Medicine,Flu
+605,741,2018-02-22,General Medicine,Flu
+606,3,2018-01-01,General Medicine,Flu
+607,33,2018-01-02,General Medicine,Flu
+608,40,2018-01-03,ICU,Pneumonia
+609,59,2018-01-04,ICU,Pneumonia
+610,257,2018-01-21,ICU,Stroke
+611,266,2018-01-22,Cardiology,Heart Failure
+612,278,2018-01-23,Neurology,Pain
+613,290,2018-01-24,Hospitalist,Diabetes
+614,309,2018-01-25,Hospitalist,Diabetes
+615,315,2018-01-26,Orthopeadics,Knee Replacement
+616,329,2018-01-27,Cardiology,Heart Failure
+617,346,2018-01-28,General Medicine,Flu
+618,350,2018-01-29,General Medicine,Flu
+619,373,2018-01-30,General Medicine,Laceration
+620,403,2018-01-31,General Medicine,Laceration
+621,411,2018-02-01,General Medicine,Laceration
+622,421,2018-02-02,General Medicine,Laceration
+623,438,2018-02-03,ICU,AMI
+624,447,2018-02-04,ICU,AMI
+625,461,2018-02-05,ICU,Heart Failure
+626,462,2018-02-06,Cardiology,Heart Failure
+627,478,2018-02-07,Neurology,Pain
+628,491,2018-02-08,Hospitalist,Diabetes
+629,509,2018-02-09,Hospitalist,Diabetes
+630,519,2018-02-10,Orthopeadics,Knee Replacement
+631,524,2018-02-11,Cardiology,Heart Failure
+632,544,2018-02-12,General Medicine,Laceration
+633,564,2018-02-13,General Medicine,Laceration
+634,568,2018-02-14,General Medicine,Laceration
+635,2,2018-01-01,General Medicine,Flu
+636,34,2018-01-02,General Medicine,Flu
+637,42,2018-01-03,General Medicine,Flu
+638,60,2018-01-04,ICU,Heart Failure
+639,86,2018-01-05,ICU,Heart Failure
+640,6,2018-01-01,ICU,Heart Failure
+641,28,2018-01-02,Cardiology,Heart Failure
+642,55,2018-01-03,Neurology,Pain
+643,57,2018-01-04,Hospitalist,Diabetes
+644,79,2018-01-05,Hospitalist,Diabetes
+645,88,2018-01-06,Orthopeadics,Knee Replacement
+646,104,2018-01-07,Cardiology,Heart Failure
+647,117,2018-01-08,General Medicine,Kidney Failure
+648,132,2018-01-09,General Medicine,Kidney Failure
+649,141,2018-01-10,General Medicine,Kidney Failure
+650,20,2018-01-11,General Medicine,Kidney Failure
+651,163,2018-01-12,General Medicine,Kidney Failure
+652,171,2018-01-13,General Medicine,Pneumonia
+653,180,2018-01-14,ICU,Heart Failure
+654,195,2018-01-15,ICU,Heart Failure
+655,205,2018-01-16,ICU,Heart Failure
+656,218,2018-01-17,Cardiology,Heart Failure
+657,231,2018-01-18,Neurology,Pain
+658,235,2018-01-19,Hospitalist,Diabetes
+659,250,2018-01-20,Hospitalist,Diabetes
+660,255,2018-01-21,Orthopeadics,Knee Replacement
+661,270,2018-01-22,Cardiology,Heart Failure
+662,286,2018-01-23,General Medicine,Pneumonia
+663,299,2018-01-24,General Medicine,Pneumonia
+664,311,2018-01-25,General Medicine,Pneumonia
+665,324,2018-01-26,General Medicine,Pneumonia
+666,330,2018-01-27,General Medicine,Pneumonia
+667,339,2018-01-28,General Medicine,Pneumonia
+668,358,2018-01-29,ICU,Heart Failure
+669,370,2018-01-30,ICU,Heart Failure
+670,406,2018-01-31,ICU,Heart Failure
+671,23,2018-02-01,Cardiology,Heart Failure
+672,430,2018-02-02,Neurology,Pain
+673,440,2018-02-03,Hospitalist,Diabetes
+674,443,2018-02-04,Hospitalist,Diabetes
+675,452,2018-02-05,Orthopeadics,Knee Replacement
+676,470,2018-02-06,Cardiology,Heart Failure
+677,475,2018-02-07,General Medicine,Pneumonia
+678,492,2018-02-08,General Medicine,Pneumonia
+679,500,2018-02-09,General Medicine,Pneumonia
+680,514,2018-02-10,General Medicine,Pneumonia
+681,536,2018-02-11,General Medicine,Pneumonia
+682,547,2018-02-12,General Medicine,Pneumonia
+683,553,2018-02-13,ICU,Heart Failure
+684,571,2018-02-14,ICU,Heart Failure
+685,582,2018-02-15,ICU,Heart Failure
+686,593,2018-02-16,Cardiology,Heart Failure
+687,608,2018-02-17,Neurology,Pain
+688,632,2018-02-18,Hospitalist,Diabetes
+689,669,2018-02-19,Hospitalist,Diabetes
+690,696,2018-02-20,Orthopeadics,Knee Replacement
+691,709,2018-02-21,Cardiology,Heart Failure
+692,735,2018-02-22,General Medicine,Pneumonia
+693,606,2018-02-17,General Medicine,Pneumonia
+694,644,2018-02-18,General Medicine,Pneumonia
+695,671,2018-02-19,General Medicine,Pneumonia
+696,688,2018-02-20,General Medicine,Pneumonia
+697,713,2018-02-21,General Medicine,Pneumonia
+698,723,2018-02-22,ICU,Heart Failure
+699,620,2018-02-17,ICU,Heart Failure
+700,630,2018-02-18,ICU,Heart Failure
+701,655,2018-02-19,Cardiology,Heart Failure
+702,689,2018-02-20,Cardiology,Heart Failure
+703,703,2018-02-21,General Medicine,Pneumonia
+704,724,2018-02-22,General Medicine,Pneumonia
+705,612,2018-02-17,General Medicine,Pneumonia
+706,649,2018-02-18,General Medicine,Pneumonia
+707,654,2018-02-19,General Medicine,Pneumonia
+708,686,2018-02-20,Cardiology,Heart Failure
+709,708,2018-02-21,General Medicine,Diabetes
+710,742,2018-02-22,General Medicine,Diabetes
+711,625,2018-02-17,General Medicine,Diabetes
+712,640,2018-02-18,General Medicine,Diabetes
+713,674,2018-02-19,General Medicine,Diabetes
+714,426,2018-02-20,General Medicine,Diabetes
+715,716,2018-02-21,ICU,Heart Failure
+716,733,2018-02-22,ICU,Heart Failure
+717,616,2018-02-17,ICU,Pneumonia
+718,645,2018-02-18,Cardiology,Heart Failure
+719,661,2018-02-19,Neurology,Pain
+720,678,2018-02-20,Hospitalist,Diabetes

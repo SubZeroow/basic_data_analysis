@@ -1,0 +1,951 @@
+ed_visit_id,visit_id,patient_id,acuity,reason_for_visit,ed_disposition
+1,1,4,1,Stomach Ache,Admitted
+2,2,5,1,Migraine,Discharged
+3,3,6,1,Pneumonia,Discharged
+4,4,7,1,Fever,Discharged
+5,5,8,1,Fever,Discharged
+6,6,9,1,Fever,Discharged
+7,7,10,1,Stomach Ache,Discharged
+8,8,11,2,Migraine,Discharged
+9,9,12,2,Stomach Ache,Discharged
+10,10,13,2,Migraine,Discharged
+11,11,14,2,Stomach Ache,Discharged
+12,12,15,2,Migraine,Admitted
+13,13,16,3,Stomach Ache,Admitted
+14,14,17,3,Migraine,Admitted
+15,15,18,3,Chest Pain,Admitted
+16,16,19,4,Bleeding,Admitted
+17,17,20,4,Chest Pain,Admitted
+18,18,21,5,Car Accident,Admitted
+19,19,22,5,Chest Pain,Admitted
+20,20,23,1,Bleeding,Discharged
+21,21,24,1,Fever,Discharged
+22,22,25,1,Fever,Discharged
+23,23,26,1,Fever,Discharged
+24,24,27,1,Fever,Discharged
+25,25,28,1,Laceration,Discharged
+26,26,29,5,Chest Pain,Admitted
+27,27,30,5,Chest Pain,Admitted
+28,28,31,4,Laceration,Discharged
+29,29,32,2,Pneumonia,Admitted
+30,30,33,3,Pneumonia,Admitted
+31,31,34,4,Pneumonia,Admitted
+32,32,35,2,Pneumonia,Admitted
+33,33,36,5,Shortness of Breath,Discharged
+34,34,37,5,Shortness of Breath,Discharged
+35,35,38,1,Fever,Discharged
+36,36,39,1,Stomach Ache,Discharged
+37,37,40,1,Migraine,Discharged
+38,38,41,1,Shortness of Breath,Discharged
+39,39,42,1,Shortness of Breath,Discharged
+40,40,43,1,Fever,Discharged
+41,41,44,1,Shortness of Breath,Discharged
+42,42,45,1,Fever,Discharged
+43,43,46,1,Fever,Admitted
+44,44,47,4,Pneumonia,Admitted
+45,45,48,5,Shortness of Breath,Admitted
+46,46,49,2,Shortness of Breath,Admitted
+47,47,50,1,Stomach Ache,Discharged
+48,48,51,1,Migraine,Discharged
+49,49,52,1,Stomach Ache,Discharged
+50,50,53,1,Migraine,Discharged
+51,51,54,5,Fever,Admitted
+52,52,55,5,Gun Shot,Admitted
+53,53,56,4,Pneumonia,Admitted
+54,54,57,2,Shortness of Breath,Admitted
+55,55,58,3,Migraine,Admitted
+56,56,59,4,Pneumonia,Admitted
+57,57,60,2,Pneumonia,Admitted
+58,58,61,5,Pneumonia,Admitted
+59,59,62,5,Accident,Admitted
+60,60,63,1,Intoxication,Discharged
+61,61,64,1,Intoxication,Discharged
+62,62,65,1,Fever,Discharged
+63,63,66,1,Stomach Ache,Discharged
+64,64,67,1,Migraine,Discharged
+65,65,68,1,Stomach Ache,Discharged
+66,66,69,1,Stomach Ache,Discharged
+67,67,70,1,Stomach Ache,Discharged
+68,68,71,1,Fever,Discharged
+69,69,72,4,Chest Pain,Discharged
+70,70,73,5,Chest Pain,Admitted
+71,71,74,2,Fever,Admitted
+72,72,75,1,Pneumonia,Discharged
+73,73,76,1,Pneumonia,Discharged
+74,74,77,1,Pneumonia,Discharged
+75,75,78,1,Pneumonia,Discharged
+76,76,79,5,Accident,Admitted
+77,77,80,5,Accident,Admitted
+78,78,81,4,Shortness of Breath,Admitted
+79,79,82,2,Shortness of Breath,Admitted
+80,80,83,3,Fever,Admitted
+81,81,84,4,Shortness of Breath,Admitted
+82,82,85,2,Car Accident,Admitted
+83,83,86,5,Gun Shot,Admitted
+84,84,87,5,Chest Pain,Admitted
+85,85,88,1,Pneumonia,Admitted
+86,86,89,1,Fever,Discharged
+87,87,90,1,Fever,Discharged
+88,88,91,1,Pneumonia,Discharged
+89,89,92,1,Fever,Discharged
+90,90,93,1,Fever,Discharged
+91,91,94,1,Shortness of Breath,Discharged
+92,92,95,1,Fever,Discharged
+93,93,96,1,Cough,Discharged
+94,94,97,4,Chest Pain,Admitted
+95,95,98,5,Fever,Admitted
+96,96,99,2,Shortness of Breath,Discharged
+97,97,100,1,Stomach Ache,Discharged
+98,98,101,2,Migraine,Discharged
+99,99,500,3,Shortness of Breath,Admitted
+100,100,503,4,Shortness of Breath,Admitted
+101,101,506,5,Shortness of Breath,Admitted
+102,102,509,1,Stomach Ache,Admitted
+103,103,512,1,Migraine,Discharged
+104,104,515,1,Pneumonia,Discharged
+105,105,518,1,Fever,Discharged
+106,106,521,1,Fever,Discharged
+107,107,524,1,Fever,Discharged
+108,108,527,1,Stomach Ache,Discharged
+109,109,530,2,Migraine,Discharged
+110,110,533,2,Stomach Ache,Discharged
+111,111,536,2,Migraine,Discharged
+112,112,539,2,Stomach Ache,Discharged
+113,113,542,2,Migraine,Admitted
+114,114,545,3,Stomach Ache,Admitted
+115,115,548,3,Migraine,Admitted
+116,116,551,3,Chest Pain,Admitted
+117,117,554,4,Bleeding,Admitted
+118,118,557,4,Chest Pain,Admitted
+119,119,560,5,Car Accident,Admitted
+120,120,563,5,Chest Pain,Admitted
+121,121,566,1,Bleeding,Discharged
+122,122,569,1,Fever,Discharged
+123,123,572,1,Fever,Discharged
+124,124,575,1,Fever,Discharged
+125,125,578,1,Fever,Discharged
+126,126,581,1,Laceration,Discharged
+127,127,584,5,Chest Pain,Admitted
+128,128,587,5,Chest Pain,Admitted
+129,129,590,4,Laceration,Discharged
+130,130,593,2,Pneumonia,Admitted
+131,131,596,3,Pneumonia,Admitted
+132,132,599,4,Pneumonia,Admitted
+133,133,602,2,Pneumonia,Admitted
+134,134,605,5,Shortness of Breath,Discharged
+135,135,608,5,Shortness of Breath,Discharged
+136,136,611,1,Fever,Discharged
+137,137,614,1,Stomach Ache,Discharged
+138,138,617,1,Migraine,Discharged
+139,139,620,1,Shortness of Breath,Discharged
+140,140,623,1,Shortness of Breath,Discharged
+141,141,626,1,Fever,Discharged
+142,142,629,1,Shortness of Breath,Discharged
+143,143,632,1,Fever,Discharged
+144,144,635,1,Fever,Admitted
+145,145,638,4,Pneumonia,Admitted
+146,146,641,5,Shortness of Breath,Admitted
+147,147,644,2,Shortness of Breath,Admitted
+148,148,647,1,Stomach Ache,Discharged
+149,149,650,1,Migraine,Discharged
+150,150,653,1,Stomach Ache,Discharged
+151,151,656,1,Migraine,Discharged
+152,152,659,5,Fever,Admitted
+153,153,662,5,Gun Shot,Admitted
+154,154,665,4,Pneumonia,Admitted
+155,155,668,2,Shortness of Breath,Admitted
+156,156,90,3,Migraine,Admitted
+157,157,90,4,Pneumonia,Admitted
+158,158,90,2,Pneumonia,Admitted
+159,159,90,5,Pneumonia,Admitted
+160,160,90,5,Accident,Admitted
+161,161,90,1,Intoxication,Discharged
+162,162,800,1,Intoxication,Discharged
+163,163,801,1,Fever,Discharged
+164,164,802,1,Stomach Ache,Discharged
+165,165,803,1,Migraine,Discharged
+166,166,804,1,Stomach Ache,Discharged
+167,167,805,1,Stomach Ache,Discharged
+168,168,806,1,Stomach Ache,Discharged
+169,169,807,1,Fever,Discharged
+170,170,808,4,Chest Pain,Discharged
+171,171,809,5,Chest Pain,Admitted
+172,172,810,2,Fever,Admitted
+173,173,811,1,Pneumonia,Discharged
+174,174,812,1,Pneumonia,Discharged
+175,175,813,1,Pneumonia,Discharged
+176,176,814,1,Pneumonia,Discharged
+177,177,815,5,Accident,Admitted
+178,178,816,5,Accident,Admitted
+179,179,817,4,Shortness of Breath,Admitted
+180,180,818,2,Shortness of Breath,Admitted
+181,181,819,1,Stomach Ache,Admitted
+182,182,820,1,Migraine,Discharged
+183,183,821,1,Pneumonia,Discharged
+184,184,822,1,Fever,Discharged
+185,185,823,1,Fever,Discharged
+186,186,824,1,Fever,Discharged
+187,187,825,1,Stomach Ache,Discharged
+188,188,826,2,Migraine,Discharged
+189,189,827,2,Stomach Ache,Discharged
+190,190,828,2,Migraine,Discharged
+191,191,829,2,Stomach Ache,Discharged
+192,192,830,2,Migraine,Admitted
+193,193,831,3,Stomach Ache,Admitted
+194,194,832,3,Migraine,Admitted
+195,195,833,3,Chest Pain,Admitted
+196,196,834,4,Bleeding,Admitted
+197,197,835,4,Chest Pain,Admitted
+198,198,836,5,Car Accident,Admitted
+199,199,837,5,Chest Pain,Admitted
+200,200,838,1,Bleeding,Discharged
+201,201,839,1,Fever,Discharged
+202,202,840,1,Fever,Discharged
+203,203,841,1,Fever,Discharged
+204,204,842,1,Fever,Discharged
+205,205,843,1,Laceration,Discharged
+206,206,844,5,Chest Pain,Admitted
+207,207,845,5,Chest Pain,Admitted
+208,208,846,4,Laceration,Discharged
+209,209,847,2,Pneumonia,Admitted
+210,210,848,3,Pneumonia,Admitted
+211,211,849,4,Pneumonia,Admitted
+212,212,850,2,Pneumonia,Admitted
+213,213,851,5,Shortness of Breath,Discharged
+214,214,852,5,Shortness of Breath,Discharged
+215,215,853,1,Fever,Discharged
+216,216,854,1,Stomach Ache,Discharged
+217,217,855,1,Migraine,Discharged
+218,218,856,1,Shortness of Breath,Discharged
+219,219,857,1,Shortness of Breath,Discharged
+220,220,858,1,Fever,Discharged
+221,221,859,1,Shortness of Breath,Discharged
+222,222,860,1,Fever,Discharged
+223,223,861,1,Fever,Admitted
+224,224,862,4,Pneumonia,Admitted
+225,225,863,5,Shortness of Breath,Admitted
+226,226,864,2,Shortness of Breath,Admitted
+227,227,865,1,Stomach Ache,Discharged
+228,228,866,1,Migraine,Discharged
+229,229,867,1,Stomach Ache,Discharged
+230,230,868,1,Migraine,Discharged
+231,231,869,5,Fever,Admitted
+232,232,870,5,Gun Shot,Admitted
+233,233,871,4,Pneumonia,Admitted
+234,234,872,2,Shortness of Breath,Admitted
+235,235,873,3,Migraine,Admitted
+236,236,874,4,Pneumonia,Admitted
+237,237,875,2,Pneumonia,Admitted
+238,238,876,5,Pneumonia,Admitted
+239,239,877,5,Accident,Admitted
+240,240,878,1,Intoxication,Discharged
+241,241,879,1,Intoxication,Discharged
+242,242,880,1,Fever,Discharged
+243,243,881,1,Stomach Ache,Discharged
+244,244,882,1,Migraine,Discharged
+245,245,883,1,Stomach Ache,Discharged
+246,246,884,1,Stomach Ache,Discharged
+247,247,885,1,Stomach Ache,Discharged
+248,248,886,1,Fever,Discharged
+249,249,887,4,Chest Pain,Discharged
+250,250,888,5,Chest Pain,Admitted
+251,251,889,2,Fever,Admitted
+252,252,890,1,Pneumonia,Discharged
+253,253,891,1,Pneumonia,Discharged
+254,254,892,1,Pneumonia,Discharged
+255,255,893,1,Pneumonia,Discharged
+256,256,894,5,Accident,Admitted
+257,257,895,5,Accident,Admitted
+258,258,896,4,Shortness of Breath,Admitted
+259,259,897,2,Shortness of Breath,Admitted
+260,260,898,1,Stomach Ache,Admitted
+261,261,899,1,Migraine,Discharged
+262,262,900,1,Pneumonia,Discharged
+263,263,901,1,Fever,Discharged
+264,264,902,1,Fever,Discharged
+265,265,903,1,Fever,Discharged
+266,266,904,1,Stomach Ache,Discharged
+267,267,905,2,Migraine,Discharged
+268,268,906,2,Stomach Ache,Discharged
+269,269,907,2,Migraine,Discharged
+270,270,908,2,Stomach Ache,Discharged
+271,271,909,2,Migraine,Admitted
+272,272,910,3,Stomach Ache,Admitted
+273,273,911,3,Migraine,Admitted
+274,274,912,3,Chest Pain,Admitted
+275,275,913,4,Bleeding,Admitted
+276,276,914,4,Chest Pain,Admitted
+277,277,915,5,Car Accident,Admitted
+278,278,916,5,Chest Pain,Admitted
+279,279,917,1,Bleeding,Discharged
+280,280,29,1,Fever,Discharged
+281,281,30,1,Fever,Discharged
+282,282,31,1,Fever,Discharged
+283,283,32,1,Fever,Discharged
+284,284,33,1,Laceration,Discharged
+285,285,34,5,Chest Pain,Admitted
+286,286,35,5,Chest Pain,Admitted
+287,287,36,4,Laceration,Discharged
+288,288,37,2,Pneumonia,Admitted
+289,289,38,3,Pneumonia,Admitted
+290,290,39,4,Pneumonia,Admitted
+291,291,40,2,Pneumonia,Admitted
+292,292,41,5,Shortness of Breath,Discharged
+293,293,42,5,Shortness of Breath,Discharged
+294,294,43,1,Fever,Discharged
+295,295,44,1,Stomach Ache,Discharged
+296,296,45,1,Migraine,Discharged
+297,297,46,1,Shortness of Breath,Discharged
+298,298,47,1,Shortness of Breath,Discharged
+299,299,48,1,Fever,Discharged
+300,300,49,1,Shortness of Breath,Discharged
+301,301,50,1,Fever,Discharged
+302,302,51,1,Fever,Admitted
+303,303,52,4,Pneumonia,Admitted
+304,304,53,5,Shortness of Breath,Admitted
+305,305,54,2,Shortness of Breath,Admitted
+306,306,55,1,Stomach Ache,Discharged
+307,307,56,1,Migraine,Discharged
+308,308,57,1,Stomach Ache,Discharged
+309,309,58,1,Migraine,Discharged
+310,310,59,5,Fever,Admitted
+311,311,60,5,Gun Shot,Admitted
+312,312,61,4,Pneumonia,Admitted
+313,313,62,2,Shortness of Breath,Admitted
+314,314,63,3,Migraine,Admitted
+315,315,64,4,Pneumonia,Admitted
+316,316,65,2,Pneumonia,Admitted
+317,317,66,5,Pneumonia,Admitted
+318,318,67,5,Accident,Admitted
+319,319,68,1,Intoxication,Discharged
+320,320,69,1,Intoxication,Discharged
+321,321,70,1,Fever,Discharged
+322,322,71,1,Stomach Ache,Discharged
+323,323,72,1,Migraine,Discharged
+324,324,73,1,Stomach Ache,Discharged
+325,325,74,1,Stomach Ache,Discharged
+326,326,75,1,Stomach Ache,Discharged
+327,327,76,1,Fever,Discharged
+328,328,77,4,Chest Pain,Discharged
+329,329,78,5,Chest Pain,Admitted
+330,330,79,2,Fever,Admitted
+331,331,80,1,Pneumonia,Discharged
+332,332,81,1,Pneumonia,Discharged
+333,333,82,1,Pneumonia,Discharged
+334,334,83,1,Pneumonia,Discharged
+335,335,84,5,Accident,Admitted
+336,336,85,5,Accident,Admitted
+337,337,86,4,Shortness of Breath,Admitted
+338,338,87,2,Shortness of Breath,Admitted
+339,339,88,1,Stomach Ache,Admitted
+340,340,89,1,Migraine,Discharged
+341,341,90,1,Pneumonia,Discharged
+342,342,91,1,Fever,Discharged
+343,343,92,1,Fever,Discharged
+344,344,93,1,Fever,Discharged
+345,345,94,1,Stomach Ache,Discharged
+346,346,95,2,Migraine,Discharged
+347,347,96,2,Stomach Ache,Discharged
+348,348,97,2,Migraine,Discharged
+349,349,98,2,Stomach Ache,Discharged
+350,350,99,2,Migraine,Admitted
+351,351,100,3,Stomach Ache,Admitted
+352,352,101,3,Migraine,Admitted
+353,353,500,3,Chest Pain,Admitted
+354,354,503,4,Bleeding,Admitted
+355,355,506,4,Chest Pain,Admitted
+356,356,509,5,Car Accident,Admitted
+357,357,512,5,Chest Pain,Admitted
+358,358,515,1,Bleeding,Discharged
+359,359,518,1,Fever,Discharged
+360,360,521,1,Fever,Discharged
+361,361,524,1,Fever,Discharged
+362,362,527,1,Fever,Discharged
+363,363,530,1,Laceration,Discharged
+364,364,533,5,Chest Pain,Admitted
+365,365,536,5,Chest Pain,Admitted
+366,366,539,4,Laceration,Discharged
+367,367,542,2,Pneumonia,Admitted
+368,368,545,3,Pneumonia,Admitted
+369,369,548,4,Pneumonia,Admitted
+370,370,551,2,Pneumonia,Admitted
+371,371,554,5,Shortness of Breath,Discharged
+372,372,557,5,Shortness of Breath,Discharged
+373,373,560,1,Fever,Discharged
+374,374,563,1,Stomach Ache,Discharged
+375,375,566,1,Migraine,Discharged
+376,376,569,1,Shortness of Breath,Discharged
+377,377,572,1,Shortness of Breath,Discharged
+378,378,575,1,Fever,Discharged
+379,379,578,1,Shortness of Breath,Discharged
+380,380,581,1,Fever,Discharged
+381,381,584,1,Fever,Admitted
+382,382,587,4,Pneumonia,Admitted
+383,383,590,5,Shortness of Breath,Admitted
+384,384,593,2,Shortness of Breath,Admitted
+385,385,596,1,Stomach Ache,Discharged
+386,386,599,1,Migraine,Discharged
+387,387,602,1,Stomach Ache,Discharged
+388,388,605,1,Migraine,Discharged
+389,389,608,5,Fever,Admitted
+390,390,611,5,Gun Shot,Admitted
+391,391,614,4,Pneumonia,Admitted
+392,392,617,2,Shortness of Breath,Admitted
+393,393,620,3,Migraine,Admitted
+394,394,623,4,Pneumonia,Admitted
+395,395,626,2,Pneumonia,Admitted
+396,396,629,5,Pneumonia,Admitted
+397,397,632,5,Accident,Admitted
+398,398,635,1,Intoxication,Discharged
+399,399,638,1,Intoxication,Discharged
+400,400,641,1,Fever,Discharged
+401,401,644,1,Stomach Ache,Discharged
+402,402,647,1,Migraine,Discharged
+403,403,650,1,Stomach Ache,Discharged
+404,404,653,1,Stomach Ache,Discharged
+405,405,656,1,Stomach Ache,Discharged
+406,406,659,1,Fever,Discharged
+407,407,662,4,Chest Pain,Discharged
+408,408,665,5,Chest Pain,Admitted
+409,409,668,2,Fever,Admitted
+410,410,90,1,Pneumonia,Discharged
+411,411,90,1,Pneumonia,Discharged
+412,412,90,1,Pneumonia,Discharged
+413,413,90,1,Pneumonia,Discharged
+414,414,90,5,Accident,Admitted
+415,415,90,5,Accident,Admitted
+416,416,800,4,Shortness of Breath,Admitted
+417,417,801,2,Shortness of Breath,Admitted
+418,418,802,1,Stomach Ache,Admitted
+419,419,803,1,Migraine,Discharged
+420,420,804,1,Pneumonia,Discharged
+421,421,805,1,Fever,Discharged
+422,422,806,1,Fever,Discharged
+423,423,807,1,Fever,Discharged
+424,424,808,1,Stomach Ache,Discharged
+425,425,809,2,Migraine,Discharged
+426,426,810,2,Stomach Ache,Discharged
+427,427,811,2,Migraine,Discharged
+428,428,812,2,Stomach Ache,Discharged
+429,429,813,2,Migraine,Admitted
+430,430,814,3,Stomach Ache,Admitted
+431,431,815,3,Migraine,Admitted
+432,432,816,3,Chest Pain,Admitted
+433,433,817,4,Bleeding,Admitted
+434,434,818,4,Chest Pain,Admitted
+435,435,819,5,Car Accident,Admitted
+436,436,820,5,Chest Pain,Admitted
+437,437,821,1,Bleeding,Discharged
+438,438,822,1,Fever,Discharged
+439,439,823,1,Fever,Discharged
+440,440,824,1,Fever,Discharged
+441,441,825,1,Fever,Discharged
+442,442,826,1,Laceration,Discharged
+443,443,827,5,Chest Pain,Admitted
+444,444,828,5,Chest Pain,Admitted
+445,445,829,4,Laceration,Discharged
+446,446,830,2,Pneumonia,Admitted
+447,447,831,3,Pneumonia,Admitted
+448,448,832,4,Pneumonia,Admitted
+449,449,833,2,Pneumonia,Admitted
+450,450,834,5,Shortness of Breath,Discharged
+451,451,835,5,Shortness of Breath,Discharged
+452,452,836,1,Fever,Discharged
+453,453,837,1,Stomach Ache,Discharged
+454,454,838,1,Migraine,Discharged
+455,455,839,1,Shortness of Breath,Discharged
+456,456,840,1,Shortness of Breath,Discharged
+457,457,841,1,Fever,Discharged
+458,458,842,1,Shortness of Breath,Discharged
+459,459,843,1,Fever,Discharged
+460,460,844,1,Fever,Admitted
+461,461,845,4,Pneumonia,Admitted
+462,462,846,5,Shortness of Breath,Admitted
+463,463,847,2,Shortness of Breath,Admitted
+464,464,848,1,Stomach Ache,Discharged
+465,465,849,1,Migraine,Discharged
+466,466,850,1,Stomach Ache,Discharged
+467,467,851,1,Migraine,Discharged
+468,468,852,5,Fever,Admitted
+469,469,853,5,Gun Shot,Admitted
+470,470,854,4,Pneumonia,Admitted
+471,471,855,2,Shortness of Breath,Admitted
+472,472,856,3,Migraine,Admitted
+473,473,857,4,Pneumonia,Admitted
+474,474,858,2,Pneumonia,Admitted
+475,475,859,5,Pneumonia,Admitted
+476,476,860,5,Accident,Admitted
+477,477,861,1,Intoxication,Discharged
+478,478,862,1,Intoxication,Discharged
+479,479,863,1,Fever,Discharged
+480,480,864,1,Stomach Ache,Discharged
+481,481,865,1,Migraine,Discharged
+482,482,866,1,Stomach Ache,Discharged
+483,483,867,1,Stomach Ache,Discharged
+484,484,868,1,Stomach Ache,Discharged
+485,485,869,1,Fever,Discharged
+486,486,870,4,Chest Pain,Discharged
+487,487,871,5,Chest Pain,Admitted
+488,488,872,1,Stomach Ache,Admitted
+489,489,873,1,Migraine,Discharged
+490,490,874,1,Pneumonia,Discharged
+491,491,875,1,Fever,Discharged
+492,492,876,1,Fever,Discharged
+493,493,877,1,Fever,Discharged
+494,494,878,1,Stomach Ache,Discharged
+495,495,879,2,Migraine,Discharged
+496,496,880,2,Stomach Ache,Discharged
+497,497,881,2,Migraine,Discharged
+498,498,882,2,Stomach Ache,Discharged
+499,499,883,2,Migraine,Admitted
+500,500,884,3,Stomach Ache,Admitted
+501,501,885,3,Migraine,Admitted
+502,502,886,3,Chest Pain,Admitted
+503,503,887,4,Bleeding,Admitted
+504,504,888,4,Chest Pain,Admitted
+505,505,889,5,Car Accident,Admitted
+506,506,890,5,Chest Pain,Admitted
+507,507,891,1,Bleeding,Discharged
+508,508,892,1,Fever,Discharged
+509,509,893,1,Fever,Discharged
+510,510,894,1,Fever,Discharged
+511,511,895,1,Fever,Discharged
+512,512,29,1,Laceration,Discharged
+513,513,30,5,Chest Pain,Admitted
+514,514,31,5,Chest Pain,Admitted
+515,515,32,4,Laceration,Discharged
+516,516,33,2,Pneumonia,Admitted
+517,517,34,3,Pneumonia,Admitted
+518,518,35,4,Pneumonia,Admitted
+519,519,36,2,Pneumonia,Admitted
+520,520,37,5,Shortness of Breath,Discharged
+521,521,38,5,Shortness of Breath,Discharged
+522,522,39,1,Fever,Discharged
+523,523,40,1,Stomach Ache,Discharged
+524,524,41,1,Migraine,Discharged
+525,525,42,1,Shortness of Breath,Discharged
+526,526,43,1,Shortness of Breath,Discharged
+527,527,44,1,Fever,Discharged
+528,528,45,1,Shortness of Breath,Discharged
+529,529,46,1,Fever,Discharged
+530,530,47,1,Fever,Admitted
+531,531,48,4,Pneumonia,Admitted
+532,532,49,5,Shortness of Breath,Admitted
+533,533,50,2,Shortness of Breath,Admitted
+534,534,51,1,Stomach Ache,Discharged
+535,535,52,1,Migraine,Discharged
+536,536,53,1,Stomach Ache,Discharged
+537,537,54,1,Migraine,Discharged
+538,538,55,5,Fever,Admitted
+539,539,56,5,Gun Shot,Admitted
+540,540,57,4,Pneumonia,Admitted
+541,541,58,2,Shortness of Breath,Admitted
+542,542,59,3,Migraine,Admitted
+543,543,60,4,Pneumonia,Admitted
+544,544,61,2,Pneumonia,Admitted
+545,545,62,5,Pneumonia,Admitted
+546,546,63,5,Accident,Admitted
+547,547,64,1,Intoxication,Discharged
+548,548,65,1,Intoxication,Discharged
+549,549,66,1,Fever,Discharged
+550,550,67,1,Stomach Ache,Discharged
+551,551,68,1,Migraine,Discharged
+552,552,69,1,Stomach Ache,Discharged
+553,553,70,1,Stomach Ache,Discharged
+554,554,71,1,Stomach Ache,Discharged
+555,555,72,1,Fever,Discharged
+556,556,73,4,Chest Pain,Discharged
+557,557,74,5,Chest Pain,Admitted
+558,558,75,2,Fever,Admitted
+559,559,76,1,Pneumonia,Discharged
+560,560,77,1,Pneumonia,Discharged
+561,561,78,1,Pneumonia,Discharged
+562,562,79,1,Pneumonia,Discharged
+563,563,80,5,Accident,Admitted
+564,564,81,5,Accident,Admitted
+565,565,82,4,Shortness of Breath,Admitted
+566,566,83,2,Shortness of Breath,Admitted
+567,567,84,1,Stomach Ache,Admitted
+568,568,85,1,Migraine,Discharged
+569,569,86,1,Pneumonia,Discharged
+570,570,87,1,Fever,Discharged
+571,571,88,1,Fever,Discharged
+572,572,89,1,Fever,Discharged
+573,573,90,1,Stomach Ache,Discharged
+574,574,91,2,Migraine,Discharged
+575,575,92,2,Stomach Ache,Discharged
+576,576,93,2,Migraine,Discharged
+577,577,94,2,Stomach Ache,Discharged
+578,578,95,2,Migraine,Admitted
+579,579,96,3,Stomach Ache,Admitted
+580,580,97,3,Migraine,Admitted
+581,581,98,3,Chest Pain,Admitted
+582,582,99,4,Bleeding,Admitted
+583,583,100,4,Chest Pain,Admitted
+584,584,101,5,Car Accident,Admitted
+585,585,500,5,Chest Pain,Admitted
+586,586,503,1,Bleeding,Discharged
+587,587,506,1,Fever,Discharged
+588,588,509,1,Fever,Discharged
+589,589,512,1,Fever,Discharged
+590,590,515,1,Fever,Discharged
+591,591,518,1,Laceration,Discharged
+592,592,521,5,Chest Pain,Admitted
+593,593,524,5,Chest Pain,Admitted
+594,594,527,4,Laceration,Discharged
+595,595,530,2,Pneumonia,Admitted
+596,596,533,3,Pneumonia,Admitted
+597,597,536,4,Pneumonia,Admitted
+598,598,539,2,Pneumonia,Admitted
+599,599,542,5,Shortness of Breath,Discharged
+600,600,545,5,Shortness of Breath,Discharged
+601,601,548,1,Fever,Discharged
+602,602,551,1,Stomach Ache,Discharged
+603,603,554,1,Migraine,Discharged
+604,604,557,1,Shortness of Breath,Discharged
+605,605,560,1,Shortness of Breath,Discharged
+606,606,563,1,Fever,Discharged
+607,607,566,1,Shortness of Breath,Discharged
+608,608,569,1,Fever,Discharged
+609,609,572,1,Fever,Admitted
+610,610,575,4,Pneumonia,Admitted
+611,611,578,5,Shortness of Breath,Admitted
+612,612,581,2,Shortness of Breath,Admitted
+613,613,584,1,Stomach Ache,Discharged
+614,614,587,1,Migraine,Discharged
+615,615,590,1,Stomach Ache,Discharged
+616,616,593,1,Migraine,Discharged
+617,617,596,5,Fever,Admitted
+618,618,599,5,Gun Shot,Admitted
+619,619,602,4,Pneumonia,Admitted
+620,620,605,2,Shortness of Breath,Admitted
+621,621,608,3,Migraine,Admitted
+622,622,611,4,Pneumonia,Admitted
+623,623,614,2,Pneumonia,Admitted
+624,624,617,5,Pneumonia,Admitted
+625,625,620,5,Accident,Admitted
+626,626,623,1,Intoxication,Discharged
+627,627,626,1,Intoxication,Discharged
+628,628,629,1,Fever,Discharged
+629,629,632,1,Stomach Ache,Discharged
+630,630,635,1,Migraine,Discharged
+631,631,638,1,Stomach Ache,Discharged
+632,632,641,1,Stomach Ache,Discharged
+633,633,644,1,Stomach Ache,Discharged
+634,634,647,1,Fever,Discharged
+635,635,650,4,Chest Pain,Discharged
+636,636,653,5,Chest Pain,Admitted
+637,637,656,2,Fever,Admitted
+638,638,659,1,Pneumonia,Discharged
+639,639,662,1,Pneumonia,Discharged
+640,640,665,1,Pneumonia,Discharged
+641,641,668,1,Pneumonia,Discharged
+642,642,90,5,Accident,Admitted
+643,643,90,5,Accident,Admitted
+644,644,90,1,Stomach Ache,Admitted
+645,645,90,1,Migraine,Discharged
+646,646,90,1,Pneumonia,Discharged
+647,647,90,1,Fever,Discharged
+648,648,800,1,Fever,Discharged
+649,649,801,1,Fever,Discharged
+650,650,802,1,Stomach Ache,Discharged
+651,651,803,2,Migraine,Discharged
+652,652,804,2,Stomach Ache,Discharged
+653,653,805,2,Migraine,Discharged
+654,654,806,2,Stomach Ache,Discharged
+655,655,807,2,Migraine,Admitted
+656,656,808,3,Stomach Ache,Admitted
+657,657,809,3,Migraine,Admitted
+658,658,810,3,Chest Pain,Admitted
+659,659,811,4,Bleeding,Admitted
+660,660,812,4,Chest Pain,Admitted
+661,661,813,5,Car Accident,Admitted
+662,662,814,5,Chest Pain,Admitted
+663,663,815,1,Bleeding,Discharged
+664,664,816,1,Fever,Discharged
+665,665,817,1,Fever,Discharged
+666,666,818,1,Fever,Discharged
+667,667,819,1,Fever,Discharged
+668,668,820,1,Laceration,Discharged
+669,669,821,5,Chest Pain,Admitted
+670,670,822,5,Chest Pain,Admitted
+671,671,823,4,Laceration,Discharged
+672,672,824,2,Pneumonia,Admitted
+673,673,825,3,Pneumonia,Admitted
+674,674,826,4,Pneumonia,Admitted
+675,675,827,2,Pneumonia,Admitted
+676,676,828,5,Shortness of Breath,Discharged
+677,677,829,5,Shortness of Breath,Discharged
+678,678,830,1,Fever,Discharged
+679,679,831,1,Stomach Ache,Discharged
+680,680,832,1,Migraine,Discharged
+681,681,833,1,Shortness of Breath,Discharged
+682,682,834,1,Shortness of Breath,Discharged
+683,683,835,1,Fever,Discharged
+684,684,836,1,Shortness of Breath,Discharged
+685,685,837,1,Fever,Discharged
+686,686,838,1,Fever,Admitted
+687,687,839,4,Pneumonia,Admitted
+688,688,840,5,Shortness of Breath,Admitted
+689,689,841,2,Shortness of Breath,Admitted
+690,690,842,1,Stomach Ache,Discharged
+691,691,843,1,Migraine,Discharged
+692,692,844,1,Stomach Ache,Discharged
+693,693,845,1,Migraine,Discharged
+694,694,846,5,Fever,Admitted
+695,695,847,5,Gun Shot,Admitted
+696,696,848,4,Pneumonia,Admitted
+697,697,849,2,Shortness of Breath,Admitted
+698,698,850,3,Migraine,Admitted
+699,699,851,4,Pneumonia,Admitted
+700,700,852,2,Pneumonia,Admitted
+701,701,853,5,Pneumonia,Admitted
+702,702,854,5,Accident,Admitted
+703,703,855,1,Intoxication,Discharged
+704,704,856,1,Intoxication,Discharged
+705,705,857,1,Fever,Discharged
+706,706,858,1,Stomach Ache,Discharged
+707,707,859,1,Migraine,Discharged
+708,708,860,1,Stomach Ache,Discharged
+709,709,861,1,Stomach Ache,Discharged
+710,710,862,1,Stomach Ache,Discharged
+711,711,863,1,Fever,Discharged
+712,712,864,4,Chest Pain,Discharged
+713,713,865,5,Chest Pain,Admitted
+714,714,866,2,Fever,Admitted
+715,715,867,1,Pneumonia,Discharged
+716,716,868,1,Pneumonia,Discharged
+717,717,869,1,Stomach Ache,Admitted
+718,718,870,1,Migraine,Discharged
+719,719,871,1,Pneumonia,Discharged
+720,720,872,1,Fever,Discharged
+721,721,873,1,Fever,Discharged
+722,722,874,1,Fever,Discharged
+723,723,875,1,Stomach Ache,Discharged
+724,724,876,2,Migraine,Discharged
+725,725,877,2,Stomach Ache,Discharged
+726,726,878,2,Migraine,Discharged
+727,727,879,2,Stomach Ache,Discharged
+728,728,880,2,Migraine,Admitted
+729,729,881,3,Stomach Ache,Admitted
+730,730,882,3,Migraine,Admitted
+731,731,883,3,Chest Pain,Admitted
+732,732,884,4,Bleeding,Admitted
+733,733,885,4,Chest Pain,Admitted
+734,734,886,5,Car Accident,Admitted
+735,735,887,5,Chest Pain,Admitted
+736,736,888,1,Bleeding,Discharged
+737,737,889,1,Fever,Discharged
+738,738,890,1,Fever,Discharged
+739,739,891,1,Fever,Discharged
+740,740,892,1,Fever,Discharged
+741,741,893,1,Laceration,Discharged
+742,742,894,5,Chest Pain,Admitted
+743,743,895,5,Chest Pain,Admitted
+744,744,896,4,Laceration,Discharged
+745,745,897,2,Pneumonia,Admitted
+746,746,898,3,Pneumonia,Admitted
+747,747,899,4,Pneumonia,Admitted
+748,748,900,2,Pneumonia,Admitted
+749,749,901,5,Shortness of Breath,Discharged
+750,750,902,5,Shortness of Breath,Discharged
+751,751,903,1,Fever,Discharged
+752,752,904,1,Stomach Ache,Discharged
+753,753,905,1,Migraine,Discharged
+754,754,906,1,Shortness of Breath,Discharged
+755,755,907,1,Shortness of Breath,Discharged
+756,756,908,1,Fever,Discharged
+757,757,909,1,Shortness of Breath,Discharged
+758,758,910,1,Fever,Discharged
+759,759,911,1,Fever,Admitted
+760,760,912,4,Pneumonia,Admitted
+761,761,913,5,Shortness of Breath,Admitted
+762,762,914,2,Shortness of Breath,Admitted
+763,763,915,1,Stomach Ache,Discharged
+764,764,916,1,Migraine,Discharged
+765,765,850,1,Stomach Ache,Discharged
+766,766,851,1,Migraine,Discharged
+767,767,852,5,Fever,Admitted
+768,768,853,5,Gun Shot,Admitted
+769,769,854,4,Pneumonia,Admitted
+770,770,855,2,Shortness of Breath,Admitted
+771,771,856,3,Migraine,Admitted
+772,772,857,4,Pneumonia,Admitted
+773,773,858,2,Pneumonia,Admitted
+774,774,859,5,Pneumonia,Admitted
+775,775,860,5,Accident,Admitted
+776,776,861,1,Intoxication,Discharged
+777,777,862,1,Intoxication,Discharged
+778,778,863,1,Fever,Discharged
+779,779,864,1,Stomach Ache,Discharged
+780,780,865,1,Migraine,Discharged
+781,781,866,1,Stomach Ache,Discharged
+782,782,867,1,Stomach Ache,Discharged
+783,783,868,1,Stomach Ache,Discharged
+784,784,869,1,Fever,Discharged
+785,785,870,4,Chest Pain,Discharged
+786,786,871,5,Chest Pain,Admitted
+787,787,872,2,Fever,Admitted
+788,788,873,1,Pneumonia,Discharged
+789,789,874,1,Pneumonia,Discharged
+790,790,875,1,Pneumonia,Discharged
+791,791,876,1,Pneumonia,Discharged
+792,792,877,5,Accident,Admitted
+793,793,878,5,Accident,Admitted
+794,794,879,4,Shortness of Breath,Admitted
+795,795,880,2,Shortness of Breath,Admitted
+796,796,881,1,Stomach Ache,Admitted
+797,797,882,1,Migraine,Discharged
+798,798,883,1,Pneumonia,Discharged
+799,799,884,1,Fever,Discharged
+800,800,885,1,Fever,Discharged
+801,801,886,1,Fever,Discharged
+802,802,887,1,Stomach Ache,Discharged
+803,803,888,2,Migraine,Discharged
+804,804,889,2,Stomach Ache,Discharged
+805,805,890,2,Migraine,Discharged
+806,806,891,2,Stomach Ache,Discharged
+807,807,892,2,Migraine,Admitted
+808,808,893,3,Stomach Ache,Admitted
+809,809,894,3,Migraine,Admitted
+810,810,895,3,Chest Pain,Admitted
+811,811,896,4,Bleeding,Admitted
+812,812,897,4,Chest Pain,Admitted
+813,813,898,5,Car Accident,Admitted
+814,814,899,5,Chest Pain,Admitted
+815,815,900,1,Bleeding,Discharged
+816,816,901,1,Fever,Discharged
+817,817,902,1,Fever,Discharged
+818,818,903,1,Fever,Discharged
+819,819,904,1,Fever,Discharged
+820,820,905,1,Laceration,Discharged
+821,821,906,5,Chest Pain,Admitted
+822,822,907,5,Chest Pain,Admitted
+823,823,908,4,Laceration,Discharged
+824,824,909,2,Pneumonia,Admitted
+825,825,910,3,Pneumonia,Admitted
+826,826,911,4,Pneumonia,Admitted
+827,827,912,2,Pneumonia,Admitted
+828,828,913,5,Shortness of Breath,Discharged
+829,829,914,5,Shortness of Breath,Discharged
+830,830,915,1,Fever,Discharged
+831,831,916,1,Stomach Ache,Discharged
+832,832,850,1,Migraine,Discharged
+833,833,851,1,Shortness of Breath,Discharged
+834,834,852,1,Shortness of Breath,Discharged
+835,835,853,1,Fever,Discharged
+836,836,854,1,Shortness of Breath,Discharged
+837,837,855,1,Fever,Discharged
+838,838,856,1,Fever,Admitted
+839,839,857,4,Pneumonia,Admitted
+840,840,858,5,Shortness of Breath,Admitted
+841,841,859,2,Shortness of Breath,Admitted
+842,842,860,1,Stomach Ache,Discharged
+843,843,861,1,Migraine,Discharged
+844,844,862,1,Stomach Ache,Discharged
+845,845,863,1,Migraine,Discharged
+846,846,864,5,Fever,Admitted
+847,847,865,5,Gun Shot,Admitted
+848,848,866,4,Pneumonia,Admitted
+849,849,867,2,Shortness of Breath,Admitted
+850,850,868,3,Migraine,Admitted
+851,851,869,4,Pneumonia,Admitted
+852,852,870,2,Pneumonia,Admitted
+853,853,871,5,Pneumonia,Admitted
+854,854,872,5,Accident,Admitted
+855,855,873,1,Intoxication,Discharged
+856,856,874,1,Intoxication,Discharged
+857,857,875,1,Fever,Discharged
+858,858,876,1,Stomach Ache,Discharged
+859,859,877,1,Migraine,Discharged
+860,860,878,1,Stomach Ache,Discharged
+861,861,879,1,Stomach Ache,Discharged
+862,862,880,1,Stomach Ache,Discharged
+863,863,881,1,Fever,Discharged
+864,864,882,4,Chest Pain,Discharged
+865,865,883,5,Chest Pain,Admitted
+866,866,884,2,Fever,Admitted
+867,867,885,1,Pneumonia,Discharged
+868,868,886,1,Stomach Ache,Admitted
+869,869,887,1,Migraine,Discharged
+870,870,888,1,Pneumonia,Discharged
+871,871,889,1,Fever,Discharged
+872,872,890,1,Fever,Discharged
+873,873,891,1,Fever,Discharged
+874,874,892,1,Stomach Ache,Discharged
+875,875,893,2,Migraine,Discharged
+876,876,894,2,Stomach Ache,Discharged
+877,877,895,2,Migraine,Discharged
+878,878,896,2,Stomach Ache,Discharged
+879,879,897,2,Migraine,Admitted
+880,880,898,3,Stomach Ache,Admitted
+881,881,899,3,Migraine,Admitted
+882,882,900,3,Chest Pain,Admitted
+883,883,901,4,Bleeding,Admitted
+884,884,902,4,Chest Pain,Admitted
+885,885,903,5,Car Accident,Admitted
+886,886,904,5,Chest Pain,Admitted
+887,887,905,1,Bleeding,Discharged
+888,888,906,1,Fever,Discharged
+889,889,907,1,Fever,Discharged
+890,890,908,1,Fever,Discharged
+891,891,909,1,Fever,Discharged
+892,892,910,1,Laceration,Discharged
+893,893,911,5,Chest Pain,Admitted
+894,894,912,5,Chest Pain,Admitted
+895,895,913,4,Laceration,Discharged
+896,896,914,2,Pneumonia,Admitted
+897,897,915,3,Pneumonia,Admitted
+898,898,916,4,Pneumonia,Admitted
+899,899,850,2,Pneumonia,Admitted
+900,900,851,5,Shortness of Breath,Discharged
+901,901,852,5,Shortness of Breath,Discharged
+902,902,853,1,Fever,Discharged
+903,903,854,1,Stomach Ache,Discharged
+904,904,855,1,Migraine,Discharged
+905,905,856,1,Shortness of Breath,Discharged
+906,906,857,1,Shortness of Breath,Discharged
+907,907,858,1,Fever,Discharged
+908,908,859,1,Shortness of Breath,Discharged
+909,909,860,1,Fever,Discharged
+910,910,861,1,Fever,Admitted
+911,911,862,4,Pneumonia,Admitted
+912,912,863,5,Shortness of Breath,Admitted
+913,913,864,2,Shortness of Breath,Admitted
+914,914,865,1,Stomach Ache,Discharged
+915,915,866,1,Migraine,Discharged
+916,916,867,1,Stomach Ache,Discharged
+917,917,868,1,Migraine,Discharged
+918,918,869,5,Fever,Admitted
+919,919,870,5,Gun Shot,Admitted
+920,920,871,4,Pneumonia,Admitted
+921,921,872,2,Shortness of Breath,Admitted
+922,922,873,3,Migraine,Admitted
+923,923,874,4,Pneumonia,Admitted
+924,924,875,2,Pneumonia,Admitted
+925,925,876,5,Pneumonia,Admitted
+926,926,877,5,Accident,Admitted
+927,927,878,1,Intoxication,Discharged
+928,928,879,1,Intoxication,Discharged
+929,929,880,1,Fever,Discharged
+930,930,881,1,Stomach Ache,Discharged
+931,931,882,1,Migraine,Discharged
+932,932,883,1,Stomach Ache,Discharged
+933,933,884,1,Stomach Ache,Discharged
+934,934,885,1,Stomach Ache,Discharged
+935,935,886,1,Fever,Discharged
+936,936,887,4,Chest Pain,Discharged
+937,937,888,5,Chest Pain,Admitted
+938,938,889,2,Fever,Admitted
+939,939,890,1,Pneumonia,Discharged
+940,940,891,1,Pneumonia,Discharged
+941,941,892,1,Pneumonia,Discharged
+942,942,893,1,Pneumonia,Discharged
+943,943,894,5,Accident,Admitted
+944,944,895,5,Accident,Admitted
+945,945,896,4,Shortness of Breath,Admitted
+946,946,897,1,Stomach Ache,Admitted
+947,947,898,1,Migraine,Discharged
+948,948,899,1,Pneumonia,Discharged
+949,949,900,1,Fever,Discharged
+950,950,901,1,Fever,Discharged
